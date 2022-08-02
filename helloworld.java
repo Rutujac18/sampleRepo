@@ -7,5 +7,10 @@ public class helloworld {
 		System.out.println("hello all");
 
 	}
+	public void apicall(){
+	System.out.println("calling api");
+
+	}
+
 
 }
